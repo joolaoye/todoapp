@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">todo-app</string>
+    <string name="type_here">Type here...</string>
+</resources>
