@@ -94,7 +94,7 @@ class MainActivity : AppCompatActivity() {
                             R.color.my_background
                         )
                     )
-                    .addActionIcon(R.drawable.baseline_delete_24)
+                    .addActionIcon(R.drawable.ic_delete)
                     .create()
                     .decorate()
 

@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">todo-app</string>
     <string name="type_here">Type here...</string>
+    <string name="todo">todo</string>
+    <string name="add_todo">Add a todo</string>
 </resources>
